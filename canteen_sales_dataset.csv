@@ -1,0 +1,1001 @@
+day,weather,food_item,price,previous_sales,exam_day,weekend,sales
+Monday,Rainy,Sandwich,41,63,0,0,90
+Monday,Sunny,Vada Pav,20,81,1,0,129
+Tuesday,Rainy,Sandwich,47,90,0,0,95
+Friday,Cloudy,Samosa,17,64,0,0,130
+Wednesday,Cloudy,Dosa,46,85,0,0,91
+Monday,Sunny,Sandwich,43,95,0,0,115
+Sunday,Cloudy,Pav Bhaji,51,78,0,1,135
+Friday,Sunny,Sandwich,42,115,1,0,120
+Wednesday,Rainy,Biryani,88,67,0,0,58
+Saturday,Sunny,Samosa,25,130,0,1,163
+Sunday,Cloudy,Poha,32,53,0,1,115
+Thursday,Cloudy,Maggi,55,119,0,0,110
+Tuesday,Cloudy,Biryani,76,58,0,0,84
+Saturday,Rainy,Poha,30,115,1,1,92
+Saturday,Sunny,Dosa,54,91,0,1,104
+Wednesday,Rainy,Vada Pav,30,129,0,0,117
+Tuesday,Sunny,Biryani,82,84,0,0,85
+Monday,Sunny,Biryani,76,85,0,0,101
+Thursday,Rainy,Maggi,39,110,0,0,96
+Tuesday,Sunny,Pav Bhaji,68,135,0,0,101
+Friday,Cloudy,Biryani,77,101,0,0,106
+Friday,Cloudy,Poha,26,92,0,0,110
+Tuesday,Rainy,Dosa,53,104,1,0,70
+Monday,Cloudy,Sandwich,59,120,0,0,91
+Friday,Cloudy,Samosa,25,163,0,0,130
+Saturday,Rainy,Pav Bhaji,70,101,0,1,101
+Monday,Cloudy,Sandwich,45,91,0,0,94
+Monday,Rainy,Pav Bhaji,66,101,0,0,86
+Friday,Sunny,Pav Bhaji,70,86,1,0,85
+Friday,Sunny,Dosa,51,70,0,0,94
+Friday,Rainy,Samosa,24,130,0,0,107
+Thursday,Sunny,Poha,36,110,0,0,141
+Tuesday,Sunny,Vada Pav,22,117,0,0,148
+Saturday,Cloudy,Poha,29,141,0,1,133
+Saturday,Cloudy,Dosa,48,94,1,1,113
+Sunday,Rainy,Sandwich,70,94,0,1,86
+Friday,Rainy,Vada Pav,29,148,0,0,130
+Saturday,Rainy,Biryani,84,106,1,1,65
+Thursday,Sunny,Vada Pav,27,130,0,0,136
+Wednesday,Sunny,Vada Pav,27,136,0,0,152
+Monday,Rainy,Samosa,18,107,0,0,118
+Monday,Cloudy,Poha,32,133,0,0,121
+Saturday,Cloudy,Vada Pav,24,152,1,1,155
+Friday,Cloudy,Vada Pav,35,155,0,0,138
+Tuesday,Sunny,Poha,38,121,0,0,109
+Thursday,Cloudy,Maggi,36,96,0,0,111
+Monday,Cloudy,Biryani,95,65,0,0,69
+Tuesday,Sunny,Vada Pav,34,138,0,0,158
+Thursday,Sunny,Pav Bhaji,64,85,0,0,108
+Sunday,Sunny,Maggi,52,111,0,1,127
+Monday,Rainy,Samosa,16,118,0,0,117
+Tuesday,Cloudy,Maggi,50,127,0,0,115
+Sunday,Cloudy,Samosa,17,117,0,1,141
+Monday,Cloudy,Pav Bhaji,64,108,0,0,106
+Thursday,Rainy,Maggi,39,115,0,0,117
+Wednesday,Sunny,Samosa,24,141,1,0,140
+Monday,Rainy,Biryani,71,69,0,0,63
+Friday,Cloudy,Dosa,41,113,1,0,90
+Monday,Sunny,Poha,27,109,0,0,130
+Thursday,Sunny,Vada Pav,21,158,1,0,159
+Monday,Cloudy,Biryani,99,63,0,0,66
+Tuesday,Rainy,Biryani,77,66,0,0,66
+Thursday,Sunny,Pav Bhaji,64,106,0,0,98
+Sunday,Sunny,Samosa,22,140,1,1,140
+Friday,Sunny,Poha,31,130,1,0,128
+Wednesday,Sunny,Biryani,98,66,0,0,96
+Tuesday,Cloudy,Pav Bhaji,55,98,0,0,101
+Sunday,Rainy,Pav Bhaji,69,101,1,1,101
+Monday,Rainy,Pav Bhaji,53,101,0,0,92
+Wednesday,Sunny,Poha,29,128,0,0,124
+Wednesday,Rainy,Vada Pav,30,159,0,0,133
+Saturday,Rainy,Pav Bhaji,66,92,0,1,115
+Wednesday,Sunny,Poha,38,124,0,0,124
+Monday,Sunny,Biryani,94,96,0,0,108
+Saturday,Cloudy,Dosa,54,90,1,1,74
+Saturday,Cloudy,Samosa,16,140,0,1,163
+Saturday,Sunny,Samosa,20,163,1,1,159
+Friday,Sunny,Sandwich,44,86,0,0,112
+Wednesday,Cloudy,Samosa,20,159,0,0,138
+Saturday,Sunny,Poha,36,124,1,1,116
+Sunday,Cloudy,Dosa,47,74,0,1,108
+Sunday,Sunny,Sandwich,40,112,0,1,147
+Saturday,Cloudy,Sandwich,65,147,0,1,144
+Wednesday,Sunny,Poha,37,116,0,0,118
+Sunday,Cloudy,Vada Pav,26,133,0,1,152
+Wednesday,Cloudy,Vada Pav,27,152,0,0,139
+Saturday,Sunny,Sandwich,50,144,0,1,155
+Sunday,Sunny,Pav Bhaji,61,115,1,1,127
+Thursday,Rainy,Biryani,100,108,0,0,62
+Monday,Cloudy,Dosa,58,108,0,0,98
+Monday,Sunny,Sandwich,51,155,0,0,129
+Thursday,Rainy,Poha,37,118,1,0,98
+Tuesday,Cloudy,Samosa,21,138,0,0,124
+Friday,Rainy,Vada Pav,31,139,0,0,121
+Monday,Rainy,Biryani,89,62,0,0,57
+Saturday,Sunny,Pav Bhaji,66,127,0,1,119
+Saturday,Cloudy,Biryani,82,57,0,1,101
+Friday,Sunny,Vada Pav,33,121,0,0,146
+Saturday,Rainy,Dosa,59,98,1,1,85
+Wednesday,Cloudy,Samosa,19,124,0,0,127
+Tuesday,Cloudy,Biryani,84,101,0,0,74
+Thursday,Rainy,Vada Pav,35,146,0,0,120
+Saturday,Sunny,Pav Bhaji,66,119,1,1,118
+Wednesday,Sunny,Vada Pav,29,120,0,0,137
+Sunday,Sunny,Dosa,40,85,0,1,125
+Tuesday,Cloudy,Poha,39,98,0,0,112
+Saturday,Rainy,Vada Pav,32,137,0,1,162
+Thursday,Sunny,Dosa,60,125,0,0,108
+Sunday,Sunny,Sandwich,47,129,0,1,146
+Sunday,Rainy,Maggi,36,117,1,1,118
+Tuesday,Sunny,Maggi,39,118,0,0,113
+Saturday,Rainy,Biryani,100,74,0,1,78
+Friday,Rainy,Sandwich,66,146,1,0,84
+Thursday,Sunny,Maggi,49,113,0,0,151
+Sunday,Sunny,Pav Bhaji,66,118,0,1,130
+Saturday,Sunny,Pav Bhaji,64,130,0,1,139
+Saturday,Cloudy,Vada Pav,28,162,0,1,166
+Wednesday,Rainy,Poha,29,112,0,0,89
+Tuesday,Cloudy,Dosa,46,108,0,0,110
+Thursday,Cloudy,Biryani,87,78,0,0,89
+Thursday,Sunny,Vada Pav,33,166,0,0,163
+Sunday,Rainy,Samosa,24,127,0,1,123
+Thursday,Sunny,Biryani,79,89,0,0,112
+Sunday,Cloudy,Vada Pav,35,163,0,1,149
+Wednesday,Cloudy,Maggi,35,151,0,0,139
+Wednesday,Rainy,Sandwich,63,84,0,0,101
+Sunday,Cloudy,Dosa,59,110,1,1,93
+Monday,Cloudy,Samosa,16,123,0,0,125
+Tuesday,Cloudy,Dosa,41,93,0,0,99
+Thursday,Cloudy,Vada Pav,34,149,0,0,135
+Wednesday,Cloudy,Pav Bhaji,63,139,0,0,93
+Sunday,Sunny,Maggi,35,139,1,1,150
+Monday,Cloudy,Vada Pav,22,135,0,0,132
+Sunday,Sunny,Vada Pav,26,132,0,1,175
+Friday,Sunny,Vada Pav,24,175,0,0,153
+Saturday,Sunny,Vada Pav,34,153,0,1,187
+Sunday,Cloudy,Dosa,59,99,1,1,92
+Saturday,Rainy,Poha,30,89,0,1,112
+Monday,Rainy,Samosa,19,125,1,0,112
+Saturday,Cloudy,Sandwich,70,101,0,1,103
+Monday,Rainy,Vada Pav,23,187,0,0,143
+Sunday,Rainy,Poha,26,112,0,1,136
+Friday,Cloudy,Biryani,72,112,1,0,71
+Saturday,Cloudy,Samosa,21,112,0,1,147
+Monday,Cloudy,Biryani,90,71,0,0,80
+Saturday,Sunny,Sandwich,45,103,1,1,136
+Saturday,Cloudy,Maggi,49,150,0,1,133
+Sunday,Rainy,Pav Bhaji,60,93,0,1,90
+Sunday,Sunny,Pav Bhaji,64,90,0,1,131
+Sunday,Cloudy,Sandwich,50,136,0,1,137
+Thursday,Cloudy,Dosa,55,92,0,0,93
+Wednesday,Cloudy,Biryani,78,80,1,0,79
+Saturday,Cloudy,Samosa,23,147,0,1,146
+Monday,Sunny,Sandwich,55,137,1,0,114
+Sunday,Sunny,Maggi,55,133,0,1,151
+Thursday,Sunny,Poha,34,136,0,0,122
+Thursday,Rainy,Vada Pav,29,143,1,0,135
+Wednesday,Cloudy,Biryani,83,79,1,0,78
+Wednesday,Cloudy,Maggi,43,151,0,0,117
+Wednesday,Sunny,Poha,31,122,0,0,134
+Monday,Rainy,Dosa,46,93,0,0,71
+Saturday,Cloudy,Pav Bhaji,68,131,1,1,122
+Friday,Cloudy,Poha,31,134,0,0,132
+Tuesday,Cloudy,Dosa,49,71,0,0,80
+Saturday,Rainy,Dosa,48,80,0,1,106
+Monday,Rainy,Pav Bhaji,54,122,0,0,98
+Monday,Sunny,Pav Bhaji,65,98,0,0,115
+Thursday,Cloudy,Dosa,41,106,0,0,120
+Sunday,Cloudy,Poha,27,132,0,1,140
+Thursday,Sunny,Samosa,17,146,0,0,138
+Sunday,Rainy,Pav Bhaji,52,115,0,1,104
+Monday,Rainy,Sandwich,59,114,1,0,71
+Sunday,Rainy,Vada Pav,32,135,0,1,142
+Thursday,Cloudy,Sandwich,49,71,1,0,92
+Friday,Sunny,Poha,31,140,0,0,135
+Wednesday,Rainy,Poha,30,135,0,0,115
+Tuesday,Rainy,Poha,30,115,0,0,101
+Thursday,Cloudy,Maggi,44,117,0,0,134
+Tuesday,Cloudy,Pav Bhaji,64,104,0,0,96
+Saturday,Sunny,Pav Bhaji,70,96,1,1,141
+Saturday,Sunny,Sandwich,43,92,1,1,133
+Tuesday,Rainy,Dosa,48,120,0,0,77
+Monday,Sunny,Dosa,49,77,1,0,79
+Saturday,Rainy,Pav Bhaji,64,141,0,1,118
+Thursday,Rainy,Pav Bhaji,62,118,0,0,86
+Friday,Rainy,Maggi,49,134,0,0,114
+Friday,Sunny,Sandwich,63,133,0,0,121
+Friday,Cloudy,Samosa,16,138,0,0,133
+Saturday,Rainy,Samosa,25,133,0,1,125
+Friday,Sunny,Dosa,55,79,1,0,72
+Saturday,Cloudy,Pav Bhaji,55,86,1,1,105
+Thursday,Rainy,Maggi,37,114,0,0,116
+Wednesday,Cloudy,Biryani,80,78,0,0,87
+Sunday,Sunny,Biryani,83,87,0,1,103
+Wednesday,Rainy,Sandwich,66,121,1,0,79
+Monday,Cloudy,Poha,35,101,0,0,114
+Wednesday,Sunny,Sandwich,67,79,1,0,82
+Sunday,Sunny,Maggi,48,116,0,1,149
+Tuesday,Rainy,Biryani,89,103,0,0,72
+Saturday,Cloudy,Samosa,18,125,0,1,138
+Friday,Sunny,Pav Bhaji,64,105,0,0,113
+Monday,Sunny,Vada Pav,25,142,0,0,159
+Friday,Sunny,Sandwich,42,82,0,0,125
+Sunday,Sunny,Maggi,38,149,0,1,171
+Thursday,Rainy,Pav Bhaji,66,113,0,0,71
+Thursday,Cloudy,Maggi,42,171,0,0,125
+Friday,Sunny,Sandwich,46,125,1,0,118
+Friday,Rainy,Dosa,42,72,0,0,82
+Sunday,Cloudy,Biryani,99,72,1,1,89
+Wednesday,Sunny,Pav Bhaji,59,71,1,0,132
+Friday,Rainy,Maggi,39,125,0,0,115
+Friday,Cloudy,Biryani,80,89,1,0,89
+Sunday,Rainy,Sandwich,54,118,0,1,122
+Sunday,Sunny,Vada Pav,32,159,0,1,180
+Sunday,Cloudy,Samosa,20,138,0,1,149
+Saturday,Cloudy,Sandwich,61,122,0,1,133
+Thursday,Sunny,Dosa,56,82,1,0,80
+Wednesday,Sunny,Maggi,38,115,1,0,120
+Thursday,Sunny,Dosa,53,80,0,0,94
+Monday,Cloudy,Pav Bhaji,60,132,1,0,99
+Saturday,Cloudy,Poha,35,114,1,1,147
+Thursday,Cloudy,Maggi,52,120,0,0,98
+Friday,Sunny,Vada Pav,29,180,0,0,167
+Saturday,Sunny,Sandwich,43,133,0,1,131
+Thursday,Sunny,Pav Bhaji,50,99,0,0,110
+Wednesday,Sunny,Pav Bhaji,61,110,0,0,123
+Thursday,Sunny,Vada Pav,33,167,1,0,146
+Saturday,Sunny,Dosa,45,94,0,1,115
+Friday,Cloudy,Vada Pav,35,146,1,0,122
+Tuesday,Sunny,Maggi,55,98,0,0,126
+Thursday,Cloudy,Samosa,22,149,0,0,126
+Saturday,Rainy,Dosa,42,115,0,1,110
+Wednesday,Rainy,Pav Bhaji,70,123,0,0,86
+Saturday,Cloudy,Maggi,44,126,0,1,135
+Thursday,Cloudy,Poha,32,147,0,0,145
+Friday,Cloudy,Pav Bhaji,59,86,0,0,103
+Sunday,Rainy,Sandwich,48,131,0,1,98
+Friday,Rainy,Samosa,24,126,0,0,114
+Sunday,Cloudy,Vada Pav,31,122,0,1,148
+Saturday,Sunny,Pav Bhaji,54,103,0,1,142
+Saturday,Rainy,Samosa,19,114,0,1,124
+Monday,Rainy,Biryani,93,89,0,0,65
+Monday,Cloudy,Biryani,93,65,0,0,80
+Tuesday,Sunny,Dosa,57,110,0,0,113
+Friday,Rainy,Pav Bhaji,55,142,0,0,86
+Sunday,Cloudy,Pav Bhaji,60,86,0,1,113
+Thursday,Sunny,Dosa,47,113,0,0,105
+Sunday,Rainy,Biryani,72,80,0,1,87
+Monday,Cloudy,Poha,39,145,0,0,137
+Saturday,Rainy,Pav Bhaji,68,113,0,1,108
+Sunday,Rainy,Biryani,73,87,0,1,83
+Thursday,Sunny,Biryani,99,83,1,0,85
+Tuesday,Rainy,Poha,39,137,0,0,123
+Saturday,Cloudy,Poha,29,123,0,1,149
+Monday,Cloudy,Maggi,38,135,0,0,112
+Tuesday,Rainy,Dosa,52,105,0,0,75
+Wednesday,Rainy,Sandwich,58,98,0,0,98
+Thursday,Rainy,Poha,40,149,1,0,88
+Thursday,Cloudy,Samosa,20,124,0,0,133
+Thursday,Cloudy,Vada Pav,31,148,0,0,149
+Saturday,Cloudy,Biryani,71,85,0,1,101
+Wednesday,Sunny,Poha,39,88,0,0,114
+Saturday,Sunny,Samosa,15,133,0,1,131
+Tuesday,Sunny,Vada Pav,22,149,1,0,136
+Tuesday,Rainy,Vada Pav,27,136,0,0,123
+Sunday,Sunny,Samosa,19,131,0,1,148
+Tuesday,Rainy,Pav Bhaji,55,108,0,0,106
+Saturday,Sunny,Dosa,40,75,0,1,109
+Sunday,Sunny,Biryani,70,101,0,1,121
+Wednesday,Sunny,Dosa,53,109,1,0,97
+Monday,Rainy,Poha,40,114,0,0,110
+Sunday,Cloudy,Poha,39,110,1,1,106
+Tuesday,Rainy,Samosa,25,148,1,0,119
+Wednesday,Cloudy,Samosa,15,119,0,0,130
+Sunday,Cloudy,Sandwich,61,98,0,1,109
+Thursday,Rainy,Maggi,37,112,0,0,112
+Wednesday,Rainy,Dosa,42,97,0,0,85
+Wednesday,Rainy,Biryani,82,121,1,0,63
+Friday,Cloudy,Maggi,51,112,1,0,106
+Thursday,Sunny,Poha,31,106,0,0,120
+Thursday,Sunny,Sandwich,50,109,0,0,118
+Thursday,Cloudy,Poha,35,120,0,0,122
+Wednesday,Rainy,Pav Bhaji,61,106,0,0,102
+Saturday,Cloudy,Poha,27,122,0,1,127
+Monday,Cloudy,Poha,36,127,0,0,138
+Friday,Sunny,Biryani,91,63,0,0,66
+Thursday,Cloudy,Sandwich,67,118,0,0,99
+Wednesday,Rainy,Pav Bhaji,61,102,0,0,91
+Friday,Rainy,Vada Pav,24,123,0,0,127
+Tuesday,Sunny,Biryani,97,66,1,0,67
+Wednesday,Sunny,Pav Bhaji,68,91,0,0,102
+Sunday,Cloudy,Samosa,24,130,0,1,143
+Monday,Sunny,Pav Bhaji,59,102,0,0,105
+Wednesday,Sunny,Dosa,44,85,1,0,103
+Saturday,Cloudy,Poha,29,138,0,1,146
+Monday,Rainy,Vada Pav,32,127,0,0,114
+Thursday,Cloudy,Dosa,51,103,0,0,104
+Saturday,Cloudy,Poha,26,146,0,1,149
+Tuesday,Rainy,Samosa,25,143,0,0,124
+Wednesday,Cloudy,Sandwich,55,99,1,0,99
+Thursday,Cloudy,Pav Bhaji,56,105,1,0,85
+Monday,Cloudy,Sandwich,43,99,0,0,103
+Saturday,Rainy,Maggi,51,106,0,1,126
+Monday,Sunny,Sandwich,59,103,0,0,117
+Monday,Sunny,Pav Bhaji,56,85,0,0,108
+Sunday,Cloudy,Pav Bhaji,60,108,0,1,123
+Monday,Cloudy,Sandwich,45,117,0,0,125
+Thursday,Rainy,Vada Pav,31,114,0,0,112
+Thursday,Rainy,Samosa,21,124,0,0,118
+Thursday,Sunny,Biryani,88,67,0,0,86
+Friday,Cloudy,Sandwich,49,125,0,0,110
+Thursday,Sunny,Biryani,75,86,1,0,100
+Thursday,Rainy,Biryani,72,100,0,0,87
+Sunday,Sunny,Vada Pav,33,112,1,1,160
+Thursday,Rainy,Poha,37,149,0,0,119
+Saturday,Cloudy,Vada Pav,30,160,0,1,165
+Monday,Rainy,Poha,31,119,0,0,109
+Wednesday,Rainy,Dosa,47,104,0,0,79
+Tuesday,Cloudy,Vada Pav,25,165,1,0,142
+Tuesday,Rainy,Poha,30,109,0,0,98
+Thursday,Rainy,Maggi,53,126,1,0,93
+Wednesday,Rainy,Biryani,74,87,0,0,81
+Monday,Cloudy,Maggi,55,93,0,0,100
+Sunday,Cloudy,Samosa,20,118,1,1,158
+Monday,Cloudy,Maggi,49,100,0,0,103
+Monday,Cloudy,Pav Bhaji,52,123,0,0,98
+Friday,Rainy,Sandwich,54,110,1,0,92
+Friday,Rainy,Samosa,22,158,1,0,119
+Saturday,Sunny,Biryani,89,81,0,1,117
+Friday,Sunny,Samosa,22,119,0,0,143
+Sunday,Cloudy,Poha,30,98,0,1,132
+Tuesday,Rainy,Maggi,49,103,1,0,80
+Friday,Rainy,Dosa,51,79,0,0,75
+Wednesday,Cloudy,Sandwich,64,92,0,0,89
+Saturday,Rainy,Samosa,25,143,0,1,146
+Monday,Cloudy,Poha,37,132,0,0,116
+Wednesday,Rainy,Dosa,50,75,0,0,65
+Friday,Rainy,Dosa,51,65,0,0,68
+Saturday,Rainy,Sandwich,44,89,1,1,104
+Saturday,Sunny,Pav Bhaji,67,98,0,1,120
+Saturday,Cloudy,Dosa,56,68,0,1,96
+Saturday,Rainy,Sandwich,56,104,0,1,110
+Monday,Cloudy,Pav Bhaji,55,120,0,0,110
+Wednesday,Cloudy,Vada Pav,27,142,0,0,137
+Tuesday,Sunny,Pav Bhaji,53,110,1,0,101
+Sunday,Rainy,Samosa,25,146,0,1,139
+Sunday,Rainy,Dosa,59,96,0,1,80
+Tuesday,Sunny,Dosa,59,80,0,0,81
+Saturday,Cloudy,Samosa,21,139,0,1,145
+Saturday,Rainy,Vada Pav,34,137,1,1,130
+Wednesday,Rainy,Maggi,42,80,1,0,90
+Tuesday,Cloudy,Maggi,41,90,0,0,129
+Saturday,Rainy,Maggi,49,129,0,1,134
+Sunday,Cloudy,Sandwich,70,110,0,1,116
+Sunday,Sunny,Dosa,48,81,0,1,121
+Saturday,Cloudy,Biryani,87,117,0,1,101
+Saturday,Rainy,Poha,34,116,0,1,119
+Sunday,Sunny,Pav Bhaji,64,101,1,1,115
+Tuesday,Cloudy,Poha,32,119,0,0,119
+Wednesday,Sunny,Sandwich,41,116,0,0,115
+Friday,Cloudy,Vada Pav,32,130,0,0,142
+Wednesday,Sunny,Samosa,20,145,0,0,159
+Sunday,Rainy,Biryani,95,101,0,1,87
+Tuesday,Sunny,Pav Bhaji,65,115,0,0,115
+Sunday,Rainy,Maggi,49,134,1,1,123
+Monday,Sunny,Samosa,19,159,0,0,144
+Sunday,Sunny,Sandwich,43,115,0,1,144
+Tuesday,Cloudy,Poha,26,119,0,0,119
+Thursday,Rainy,Maggi,37,123,0,0,111
+Sunday,Cloudy,Samosa,25,144,1,1,133
+Friday,Sunny,Dosa,49,121,0,0,111
+Monday,Rainy,Biryani,77,87,1,0,68
+Thursday,Sunny,Poha,36,119,0,0,139
+Friday,Rainy,Samosa,21,133,0,0,125
+Monday,Rainy,Sandwich,51,144,0,0,122
+Saturday,Sunny,Biryani,95,68,0,1,97
+Wednesday,Sunny,Poha,35,139,0,0,138
+Monday,Cloudy,Biryani,96,97,0,0,83
+Sunday,Rainy,Maggi,50,111,0,1,142
+Sunday,Sunny,Poha,39,138,0,1,139
+Wednesday,Sunny,Samosa,18,125,0,0,131
+Wednesday,Cloudy,Sandwich,66,122,1,0,87
+Thursday,Cloudy,Samosa,25,131,0,0,107
+Wednesday,Cloudy,Samosa,25,107,0,0,116
+Wednesday,Sunny,Biryani,83,83,0,0,87
+Saturday,Cloudy,Sandwich,50,87,0,1,123
+Thursday,Rainy,Maggi,46,142,1,0,103
+Wednesday,Sunny,Sandwich,42,123,0,0,144
+Friday,Sunny,Pav Bhaji,60,115,0,0,123
+Monday,Cloudy,Pav Bhaji,59,123,0,0,100
+Friday,Rainy,Sandwich,45,144,0,0,95
+Wednesday,Cloudy,Samosa,20,116,1,0,121
+Thursday,Cloudy,Samosa,16,121,0,0,117
+Wednesday,Rainy,Dosa,40,111,0,0,106
+Sunday,Rainy,Maggi,36,103,0,1,137
+Monday,Sunny,Biryani,81,87,0,0,92
+Friday,Sunny,Dosa,54,106,0,0,87
+Wednesday,Cloudy,Poha,29,139,1,0,126
+Wednesday,Cloudy,Biryani,90,92,0,0,82
+Tuesday,Sunny,Samosa,17,117,0,0,151
+Friday,Cloudy,Poha,33,126,0,0,102
+Saturday,Cloudy,Vada Pav,29,142,0,1,155
+Tuesday,Sunny,Dosa,42,87,0,0,106
+Tuesday,Rainy,Maggi,37,137,0,0,114
+Saturday,Cloudy,Poha,34,102,0,1,126
+Sunday,Sunny,Dosa,51,106,1,1,122
+Tuesday,Sunny,Vada Pav,24,155,0,0,146
+Sunday,Cloudy,Samosa,20,151,1,1,144
+Friday,Cloudy,Maggi,52,114,0,0,116
+Friday,Sunny,Poha,34,126,0,0,132
+Saturday,Rainy,Maggi,51,116,0,1,128
+Sunday,Cloudy,Poha,29,132,0,1,130
+Saturday,Sunny,Maggi,49,128,1,1,125
+Wednesday,Sunny,Dosa,44,122,0,0,126
+Friday,Sunny,Poha,29,130,0,0,134
+Tuesday,Sunny,Biryani,99,82,0,0,79
+Wednesday,Rainy,Pav Bhaji,52,100,0,0,105
+Tuesday,Rainy,Pav Bhaji,54,105,0,0,90
+Friday,Rainy,Poha,30,134,1,0,108
+Friday,Sunny,Dosa,59,126,1,0,98
+Wednesday,Rainy,Samosa,15,144,0,0,142
+Monday,Rainy,Pav Bhaji,70,90,0,0,95
+Sunday,Rainy,Sandwich,59,95,0,1,102
+Thursday,Rainy,Pav Bhaji,70,95,0,0,88
+Thursday,Sunny,Sandwich,49,102,0,0,122
+Monday,Rainy,Samosa,17,142,0,0,133
+Thursday,Cloudy,Maggi,41,125,0,0,114
+Friday,Sunny,Biryani,97,79,0,0,93
+Saturday,Cloudy,Sandwich,44,122,0,1,144
+Friday,Rainy,Poha,35,108,0,0,79
+Thursday,Sunny,Pav Bhaji,64,88,0,0,93
+Tuesday,Sunny,Samosa,19,133,0,0,121
+Sunday,Rainy,Sandwich,47,144,0,1,120
+Sunday,Cloudy,Biryani,76,93,0,1,117
+Thursday,Rainy,Maggi,50,114,0,0,116
+Thursday,Sunny,Poha,37,79,1,0,104
+Thursday,Sunny,Vada Pav,31,146,0,0,167
+Monday,Cloudy,Maggi,54,116,0,0,101
+Wednesday,Rainy,Samosa,16,121,0,0,98
+Tuesday,Cloudy,Biryani,94,117,0,0,87
+Wednesday,Sunny,Sandwich,41,120,1,0,118
+Friday,Sunny,Biryani,87,87,0,0,93
+Monday,Cloudy,Maggi,52,101,0,0,91
+Sunday,Rainy,Poha,29,104,0,1,118
+Thursday,Cloudy,Biryani,87,93,0,0,72
+Sunday,Sunny,Vada Pav,32,167,1,1,172
+Monday,Sunny,Samosa,17,98,0,0,137
+Sunday,Cloudy,Maggi,39,91,1,1,116
+Friday,Sunny,Biryani,99,72,1,0,68
+Wednesday,Sunny,Sandwich,59,118,0,0,104
+Friday,Cloudy,Maggi,53,116,0,0,114
+Thursday,Sunny,Biryani,80,68,0,0,102
+Thursday,Rainy,Pav Bhaji,70,93,0,0,68
+Friday,Cloudy,Pav Bhaji,70,68,1,0,82
+Friday,Sunny,Samosa,24,137,0,0,134
+Tuesday,Rainy,Sandwich,44,104,0,0,86
+Monday,Rainy,Poha,31,118,0,0,100
+Thursday,Cloudy,Sandwich,44,86,0,0,94
+Saturday,Sunny,Sandwich,56,94,1,1,115
+Thursday,Rainy,Samosa,17,134,1,0,96
+Tuesday,Rainy,Biryani,91,102,0,0,90
+Friday,Cloudy,Biryani,100,90,0,0,78
+Thursday,Rainy,Biryani,87,78,0,0,59
+Saturday,Rainy,Pav Bhaji,69,82,0,1,98
+Tuesday,Sunny,Pav Bhaji,67,98,0,0,105
+Tuesday,Cloudy,Pav Bhaji,56,105,0,0,101
+Wednesday,Cloudy,Biryani,87,59,0,0,82
+Wednesday,Sunny,Sandwich,68,115,0,0,117
+Sunday,Cloudy,Dosa,49,98,0,1,110
+Wednesday,Rainy,Poha,36,100,0,0,89
+Saturday,Cloudy,Maggi,41,114,0,1,138
+Sunday,Rainy,Pav Bhaji,67,101,0,1,79
+Tuesday,Sunny,Vada Pav,27,172,0,0,144
+Saturday,Rainy,Vada Pav,27,144,0,1,161
+Monday,Cloudy,Biryani,92,82,0,0,96
+Monday,Rainy,Dosa,40,110,1,0,75
+Tuesday,Cloudy,Maggi,50,138,0,0,128
+Sunday,Cloudy,Biryani,79,96,0,1,113
+Sunday,Sunny,Vada Pav,21,161,0,1,211
+Thursday,Sunny,Samosa,21,96,0,0,142
+Tuesday,Rainy,Pav Bhaji,51,79,0,0,83
+Wednesday,Rainy,Poha,35,89,0,0,83
+Thursday,Rainy,Maggi,39,128,1,0,84
+Thursday,Cloudy,Vada Pav,23,211,0,0,163
+Tuesday,Rainy,Maggi,55,84,0,0,83
+Saturday,Sunny,Samosa,20,142,0,1,149
+Friday,Rainy,Vada Pav,25,163,1,0,117
+Sunday,Rainy,Sandwich,66,117,0,1,95
+Friday,Cloudy,Poha,37,83,0,0,122
+Tuesday,Sunny,Maggi,45,83,0,0,130
+Monday,Cloudy,Sandwich,47,95,0,0,105
+Sunday,Cloudy,Biryani,79,113,1,1,119
+Saturday,Rainy,Samosa,19,149,0,1,141
+Saturday,Sunny,Samosa,25,141,0,1,152
+Thursday,Cloudy,Dosa,52,75,1,0,93
+Saturday,Cloudy,Poha,34,122,0,1,141
+Friday,Sunny,Vada Pav,24,117,0,0,137
+Tuesday,Cloudy,Biryani,83,119,1,0,81
+Thursday,Rainy,Vada Pav,27,137,1,0,107
+Sunday,Sunny,Maggi,51,130,0,1,136
+Monday,Rainy,Poha,26,141,1,0,109
+Friday,Sunny,Dosa,45,93,0,0,125
+Sunday,Rainy,Maggi,38,136,0,1,119
+Saturday,Rainy,Maggi,37,119,1,1,124
+Thursday,Sunny,Maggi,39,124,1,0,117
+Thursday,Cloudy,Samosa,23,152,0,0,129
+Saturday,Cloudy,Samosa,21,129,0,1,143
+Sunday,Sunny,Vada Pav,22,107,0,1,157
+Thursday,Cloudy,Poha,26,109,0,0,117
+Thursday,Sunny,Pav Bhaji,63,83,0,0,96
+Sunday,Sunny,Sandwich,51,105,0,1,138
+Thursday,Cloudy,Sandwich,42,138,1,0,108
+Tuesday,Rainy,Biryani,73,81,0,0,71
+Friday,Cloudy,Dosa,47,125,0,0,94
+Sunday,Sunny,Pav Bhaji,64,96,1,1,111
+Thursday,Rainy,Sandwich,66,108,0,0,92
+Tuesday,Cloudy,Biryani,74,71,0,0,91
+Tuesday,Rainy,Poha,26,117,0,0,94
+Friday,Sunny,Vada Pav,26,157,0,0,157
+Monday,Rainy,Samosa,22,143,1,0,115
+Saturday,Rainy,Samosa,18,115,0,1,116
+Thursday,Cloudy,Vada Pav,26,157,0,0,152
+Tuesday,Rainy,Pav Bhaji,57,111,1,0,73
+Wednesday,Rainy,Biryani,77,91,0,0,80
+Tuesday,Rainy,Vada Pav,33,152,0,0,119
+Wednesday,Sunny,Dosa,60,94,0,0,80
+Friday,Cloudy,Samosa,20,116,0,0,110
+Sunday,Rainy,Biryani,92,80,0,1,84
+Thursday,Sunny,Pav Bhaji,62,73,0,0,105
+Sunday,Rainy,Maggi,42,117,0,1,117
+Wednesday,Rainy,Dosa,54,80,0,0,79
+Friday,Cloudy,Sandwich,57,92,1,0,73
+Tuesday,Cloudy,Vada Pav,28,119,0,0,135
+Wednesday,Rainy,Poha,39,94,0,0,79
+Monday,Rainy,Vada Pav,21,135,0,0,122
+Thursday,Rainy,Samosa,16,110,0,0,112
+Sunday,Rainy,Vada Pav,35,122,0,1,129
+Sunday,Cloudy,Pav Bhaji,50,105,0,1,122
+Tuesday,Rainy,Poha,40,79,0,0,97
+Saturday,Rainy,Vada Pav,32,129,0,1,135
+Friday,Cloudy,Pav Bhaji,62,122,0,0,113
+Friday,Rainy,Biryani,79,84,0,0,60
+Wednesday,Rainy,Maggi,49,117,0,0,108
+Sunday,Rainy,Maggi,45,108,0,1,136
+Wednesday,Cloudy,Sandwich,41,73,1,0,68
+Sunday,Sunny,Dosa,40,79,0,1,117
+Friday,Rainy,Sandwich,49,68,0,0,88
+Tuesday,Cloudy,Vada Pav,32,135,1,0,126
+Sunday,Sunny,Maggi,52,136,0,1,154
+Wednesday,Cloudy,Maggi,49,154,0,0,120
+Saturday,Cloudy,Dosa,44,117,1,1,113
+Thursday,Sunny,Samosa,23,112,0,0,132
+Sunday,Sunny,Samosa,15,132,0,1,175
+Tuesday,Rainy,Vada Pav,22,126,0,0,128
+Monday,Sunny,Maggi,46,120,0,0,133
+Friday,Rainy,Maggi,50,133,0,0,102
+Monday,Rainy,Sandwich,40,88,0,0,87
+Friday,Rainy,Pav Bhaji,67,113,0,0,80
+Monday,Rainy,Sandwich,65,87,0,0,83
+Monday,Sunny,Dosa,47,113,0,0,106
+Friday,Rainy,Pav Bhaji,61,80,0,0,82
+Sunday,Cloudy,Poha,36,97,0,1,150
+Thursday,Rainy,Vada Pav,27,128,0,0,132
+Saturday,Sunny,Samosa,16,175,0,1,170
+Thursday,Cloudy,Maggi,36,102,0,0,132
+Saturday,Sunny,Poha,40,150,0,1,146
+Saturday,Cloudy,Poha,26,146,0,1,126
+Tuesday,Rainy,Maggi,43,132,0,0,99
+Monday,Rainy,Pav Bhaji,67,82,1,0,48
+Saturday,Sunny,Dosa,50,106,0,1,123
+Tuesday,Rainy,Dosa,52,123,0,0,85
+Wednesday,Sunny,Vada Pav,32,132,1,0,154
+Wednesday,Cloudy,Dosa,42,85,1,0,89
+Saturday,Cloudy,Samosa,16,170,0,1,160
+Tuesday,Sunny,Biryani,89,60,1,0,84
+Friday,Cloudy,Biryani,70,84,0,0,69
+Sunday,Cloudy,Maggi,42,99,0,1,139
+Friday,Cloudy,Sandwich,45,83,1,0,101
+Saturday,Cloudy,Poha,34,126,0,1,122
+Saturday,Sunny,Poha,33,122,0,1,158
+Thursday,Rainy,Dosa,52,89,0,0,80
+Wednesday,Sunny,Poha,25,158,0,0,135
+Thursday,Cloudy,Pav Bhaji,53,48,0,0,97
+Monday,Sunny,Sandwich,54,101,1,0,126
+Friday,Rainy,Sandwich,43,126,0,0,102
+Monday,Cloudy,Poha,35,135,0,0,121
+Monday,Cloudy,Sandwich,52,102,0,0,100
+Saturday,Rainy,Vada Pav,25,154,0,1,143
+Tuesday,Sunny,Pav Bhaji,59,97,0,0,118
+Thursday,Sunny,Poha,30,121,0,0,119
+Wednesday,Cloudy,Pav Bhaji,65,118,0,0,103
+Wednesday,Cloudy,Vada Pav,35,143,1,0,123
+Friday,Sunny,Maggi,38,139,0,0,143
+Wednesday,Sunny,Sandwich,50,100,1,0,108
+Thursday,Cloudy,Maggi,45,143,0,0,136
+Sunday,Rainy,Dosa,49,80,0,1,90
+Friday,Rainy,Vada Pav,35,123,0,0,116
+Tuesday,Cloudy,Biryani,79,69,0,0,73
+Friday,Sunny,Biryani,82,73,0,0,88
+Sunday,Cloudy,Biryani,73,88,1,1,104
+Tuesday,Rainy,Dosa,57,90,0,0,82
+Saturday,Cloudy,Vada Pav,34,116,0,1,143
+Sunday,Rainy,Poha,38,119,0,1,127
+Tuesday,Rainy,Pav Bhaji,57,103,0,0,101
+Saturday,Sunny,Sandwich,65,108,0,1,134
+Monday,Cloudy,Maggi,53,136,0,0,139
+Friday,Rainy,Sandwich,57,134,0,0,87
+Sunday,Cloudy,Poha,28,127,0,1,128
+Saturday,Rainy,Biryani,75,104,1,1,71
+Monday,Rainy,Sandwich,70,87,0,0,92
+Sunday,Cloudy,Poha,25,128,0,1,149
+Wednesday,Sunny,Vada Pav,34,143,0,0,148
+Thursday,Cloudy,Dosa,51,82,0,0,93
+Thursday,Sunny,Pav Bhaji,63,101,0,0,97
+Monday,Rainy,Dosa,51,93,0,0,102
+Wednesday,Cloudy,Vada Pav,35,148,0,0,141
+Thursday,Sunny,Maggi,49,139,0,0,134
+Monday,Cloudy,Samosa,16,160,0,0,147
+Sunday,Cloudy,Poha,30,149,0,1,150
+Friday,Sunny,Dosa,50,102,1,0,98
+Thursday,Cloudy,Vada Pav,32,141,0,0,131
+Tuesday,Rainy,Sandwich,52,92,0,0,92
+Saturday,Rainy,Vada Pav,34,131,1,1,150
+Thursday,Cloudy,Samosa,18,147,0,0,149
+Wednesday,Rainy,Poha,28,150,1,0,117
+Tuesday,Cloudy,Biryani,76,71,0,0,80
+Monday,Cloudy,Maggi,51,134,0,0,111
+Friday,Cloudy,Sandwich,58,92,0,0,98
+Wednesday,Cloudy,Maggi,54,111,0,0,114
+Sunday,Rainy,Pav Bhaji,69,97,1,1,101
+Monday,Rainy,Dosa,50,98,0,0,63
+Tuesday,Cloudy,Poha,30,117,0,0,132
+Saturday,Sunny,Sandwich,53,98,1,1,121
+Tuesday,Rainy,Sandwich,53,121,0,0,89
+Thursday,Rainy,Dosa,57,63,0,0,57
+Thursday,Cloudy,Dosa,45,57,0,0,70
+Sunday,Cloudy,Samosa,20,149,0,1,163
+Thursday,Sunny,Vada Pav,32,150,1,0,142
+Friday,Rainy,Maggi,48,114,0,0,89
+Thursday,Rainy,Maggi,50,89,0,0,82
+Monday,Rainy,Samosa,18,163,0,0,121
+Monday,Cloudy,Vada Pav,29,142,0,0,158
+Sunday,Cloudy,Maggi,52,82,1,1,114
+Monday,Rainy,Poha,33,132,1,0,79
+Sunday,Cloudy,Samosa,22,121,1,1,134
+Tuesday,Cloudy,Poha,32,79,0,0,104
+Sunday,Sunny,Maggi,43,114,0,1,123
+Sunday,Sunny,Maggi,38,123,0,1,154
+Tuesday,Rainy,Biryani,97,80,1,0,49
+Saturday,Cloudy,Dosa,59,70,0,1,110
+Sunday,Sunny,Vada Pav,21,158,1,1,187
+Wednesday,Rainy,Pav Bhaji,69,101,1,0,82
+Tuesday,Cloudy,Pav Bhaji,59,82,1,0,83
+Wednesday,Rainy,Poha,29,104,0,0,88
+Monday,Cloudy,Dosa,44,110,0,0,126
+Tuesday,Rainy,Biryani,96,49,0,0,55
+Sunday,Rainy,Sandwich,55,89,0,1,105
+Friday,Rainy,Pav Bhaji,70,83,0,0,76
+Thursday,Cloudy,Poha,27,88,0,0,113
+Friday,Rainy,Pav Bhaji,61,76,0,0,77
+Thursday,Cloudy,Samosa,16,134,0,0,127
+Saturday,Rainy,Biryani,97,55,0,1,70
+Sunday,Rainy,Sandwich,46,105,0,1,113
+Sunday,Sunny,Maggi,43,154,0,1,154
+Sunday,Cloudy,Biryani,87,70,1,1,82
+Tuesday,Rainy,Maggi,45,154,0,0,115
+Monday,Sunny,Maggi,35,115,0,0,131
+Sunday,Sunny,Maggi,49,131,0,1,166
+Thursday,Sunny,Dosa,60,126,0,0,80
+Tuesday,Cloudy,Poha,36,113,0,0,124
+Monday,Cloudy,Dosa,41,80,0,0,107
+Saturday,Cloudy,Vada Pav,33,187,0,1,150
+Saturday,Sunny,Samosa,18,127,0,1,157
+Monday,Sunny,Vada Pav,34,150,0,0,147
+Monday,Rainy,Biryani,96,82,0,0,48
+Sunday,Cloudy,Dosa,55,107,0,1,106
+Tuesday,Cloudy,Poha,28,124,0,0,108
+Wednesday,Cloudy,Pav Bhaji,54,77,0,0,115
+Sunday,Sunny,Dosa,42,106,1,1,130
+Friday,Sunny,Dosa,54,130,0,0,123
+Saturday,Sunny,Dosa,53,123,1,1,126
+Saturday,Cloudy,Vada Pav,22,147,0,1,154
+Tuesday,Sunny,Sandwich,51,113,0,0,113
+Wednesday,Sunny,Vada Pav,28,154,0,0,159
+Tuesday,Rainy,Pav Bhaji,50,115,0,0,82
+Tuesday,Rainy,Vada Pav,32,159,0,0,136
+Saturday,Sunny,Vada Pav,35,136,0,1,164
+Monday,Sunny,Maggi,55,166,1,0,123
+Monday,Rainy,Samosa,20,157,0,0,129
+Tuesday,Cloudy,Sandwich,51,113,1,0,102
+Saturday,Sunny,Maggi,37,123,0,1,151
+Friday,Sunny,Samosa,19,129,0,0,152
+Monday,Sunny,Sandwich,56,102,0,0,102
+Saturday,Rainy,Sandwich,53,102,0,1,115
+Monday,Rainy,Dosa,48,126,0,0,93
+Wednesday,Sunny,Vada Pav,24,164,1,0,146
+Wednesday,Cloudy,Poha,34,108,0,0,116
+Saturday,Sunny,Samosa,18,152,0,1,154
+Thursday,Sunny,Maggi,54,151,1,0,132
+Monday,Cloudy,Dosa,43,93,0,0,95
+Saturday,Sunny,Samosa,17,154,0,1,162
+Wednesday,Rainy,Pav Bhaji,55,82,0,0,93
+Tuesday,Rainy,Pav Bhaji,53,93,0,0,80
+Wednesday,Cloudy,Pav Bhaji,66,80,0,0,78
+Wednesday,Rainy,Poha,40,116,0,0,81
+Friday,Cloudy,Samosa,22,162,1,0,133
+Tuesday,Cloudy,Dosa,48,95,0,0,82
+Friday,Rainy,Poha,32,81,1,0,99
+Monday,Sunny,Samosa,18,133,0,0,121
+Thursday,Cloudy,Sandwich,69,115,0,0,116
+Tuesday,Sunny,Sandwich,47,116,0,0,123
+Tuesday,Cloudy,Biryani,78,48,0,0,77
+Friday,Cloudy,Poha,26,99,0,0,109
+Tuesday,Rainy,Samosa,21,121,0,0,116
+Thursday,Cloudy,Pav Bhaji,60,78,0,0,94
+Friday,Cloudy,Samosa,20,116,0,0,138
+Wednesday,Rainy,Pav Bhaji,69,94,0,0,80
+Thursday,Cloudy,Maggi,41,132,1,0,117
+Sunday,Sunny,Dosa,40,82,0,1,122
+Monday,Sunny,Biryani,90,77,0,0,89
+Wednesday,Sunny,Sandwich,67,123,0,0,115
+Monday,Sunny,Vada Pav,33,146,0,0,133
+Monday,Sunny,Pav Bhaji,52,80,0,0,96
+Tuesday,Rainy,Sandwich,62,115,0,0,95
+Thursday,Rainy,Poha,28,109,1,0,92
+Tuesday,Rainy,Sandwich,42,95,1,0,81
+Friday,Sunny,Sandwich,61,81,0,0,105
+Tuesday,Cloudy,Pav Bhaji,60,96,0,0,102
+Saturday,Rainy,Biryani,80,89,0,1,87
+Wednesday,Sunny,Poha,31,92,0,0,112
+Sunday,Rainy,Poha,29,112,0,1,123
+Tuesday,Cloudy,Maggi,45,117,0,0,109
+Monday,Rainy,Biryani,100,87,0,0,66
+Thursday,Cloudy,Maggi,43,109,0,0,101
+Monday,Sunny,Pav Bhaji,69,102,0,0,116
+Tuesday,Cloudy,Dosa,42,122,0,0,109
+Wednesday,Cloudy,Samosa,25,138,0,0,132
+Wednesday,Sunny,Samosa,21,132,0,0,150
+Friday,Rainy,Vada Pav,23,133,0,0,143
+Monday,Sunny,Poha,25,123,0,0,141
+Sunday,Sunny,Dosa,46,109,0,1,111
+Wednesday,Rainy,Poha,33,141,0,0,93
+Monday,Sunny,Vada Pav,34,143,0,0,143
+Monday,Cloudy,Poha,26,93,0,0,113
+Monday,Sunny,Sandwich,66,105,0,0,113
+Thursday,Sunny,Sandwich,61,113,0,0,105
+Tuesday,Cloudy,Vada Pav,25,143,0,0,145
+Wednesday,Cloudy,Dosa,41,111,1,0,85
+Friday,Rainy,Vada Pav,29,145,0,0,121
+Thursday,Rainy,Maggi,36,101,0,0,91
+Wednesday,Cloudy,Dosa,53,85,0,0,81
+Saturday,Rainy,Vada Pav,20,121,0,1,132
+Sunday,Rainy,Biryani,85,66,1,1,64
+Sunday,Cloudy,Biryani,99,64,1,1,92
+Friday,Cloudy,Sandwich,48,105,0,0,98
+Monday,Cloudy,Vada Pav,20,132,0,0,169
+Monday,Cloudy,Biryani,94,92,1,0,76
+Tuesday,Sunny,Poha,32,113,0,0,127
+Wednesday,Rainy,Samosa,18,150,1,0,102
+Sunday,Cloudy,Biryani,99,76,0,1,102
+Tuesday,Sunny,Biryani,95,102,0,0,87
+Friday,Sunny,Biryani,100,87,1,0,78
+Friday,Sunny,Vada Pav,35,169,1,0,170
+Wednesday,Sunny,Maggi,36,91,0,0,126
+Monday,Sunny,Vada Pav,20,170,1,0,164
+Thursday,Sunny,Biryani,99,78,1,0,68
+Tuesday,Sunny,Biryani,92,68,0,0,86
+Sunday,Cloudy,Samosa,15,102,0,1,163
+Friday,Rainy,Dosa,43,81,1,0,62
+Sunday,Cloudy,Poha,36,127,0,1,154
+Friday,Sunny,Biryani,79,86,0,0,104
+Tuesday,Sunny,Sandwich,65,98,0,0,101
+Saturday,Cloudy,Dosa,57,62,1,1,98
+Sunday,Cloudy,Vada Pav,25,164,0,1,178
+Wednesday,Rainy,Pav Bhaji,54,116,0,0,98
+Saturday,Sunny,Sandwich,67,101,1,1,101
+Monday,Sunny,Biryani,99,104,1,0,74
+Tuesday,Rainy,Poha,40,154,0,0,104
+Wednesday,Rainy,Poha,32,104,0,0,97
+Wednesday,Sunny,Poha,35,97,0,0,125
+Monday,Cloudy,Vada Pav,27,178,0,0,153
+Wednesday,Cloudy,Poha,25,125,0,0,108
+Thursday,Cloudy,Sandwich,45,101,0,0,112
+Thursday,Cloudy,Biryani,87,74,0,0,86
+Monday,Cloudy,Vada Pav,25,153,0,0,151
+Monday,Sunny,Pav Bhaji,50,98,0,0,125
+Wednesday,Sunny,Poha,35,108,0,0,130
+Thursday,Sunny,Poha,27,130,0,0,136
+Friday,Rainy,Maggi,35,126,0,0,111
+Saturday,Sunny,Sandwich,45,112,0,1,124
+Monday,Cloudy,Vada Pav,26,151,0,0,149
+Saturday,Rainy,Pav Bhaji,59,125,0,1,114
+Tuesday,Sunny,Samosa,21,163,1,0,140
+Friday,Cloudy,Dosa,41,98,0,0,86
+Monday,Cloudy,Poha,34,136,1,0,99
+Thursday,Sunny,Poha,25,99,0,0,135
+Tuesday,Rainy,Pav Bhaji,52,114,0,0,92
+Sunday,Sunny,Pav Bhaji,62,92,0,1,134
+Thursday,Rainy,Pav Bhaji,52,134,1,0,88
+Thursday,Sunny,Biryani,98,86,0,0,88
+Wednesday,Sunny,Maggi,36,111,0,0,142
+Thursday,Cloudy,Pav Bhaji,57,88,0,0,93
+Friday,Sunny,Dosa,43,86,0,0,106
+Saturday,Cloudy,Sandwich,64,124,1,1,109
+Tuesday,Rainy,Samosa,21,140,1,0,103
+Thursday,Rainy,Maggi,53,142,0,0,103
+Thursday,Cloudy,Poha,37,135,0,0,120
+Friday,Rainy,Dosa,43,106,0,0,80
+Tuesday,Sunny,Vada Pav,26,149,0,0,167
+Monday,Cloudy,Poha,38,120,0,0,105
+Sunday,Rainy,Dosa,59,80,0,1,89
+Wednesday,Rainy,Poha,27,105,0,0,96
+Friday,Cloudy,Biryani,97,88,0,0,93
+Friday,Cloudy,Samosa,24,103,1,0,113
+Friday,Cloudy,Poha,38,96,0,0,118
+Tuesday,Rainy,Poha,28,118,1,0,78
+Sunday,Sunny,Pav Bhaji,67,93,0,1,127
+Thursday,Cloudy,Sandwich,60,109,0,0,111
+Friday,Rainy,Maggi,36,103,0,0,106
+Wednesday,Cloudy,Dosa,59,89,1,0,88
+Saturday,Rainy,Sandwich,41,111,0,1,112
+Wednesday,Rainy,Vada Pav,21,167,0,0,150
+Wednesday,Cloudy,Samosa,20,113,0,0,149
+Wednesday,Cloudy,Maggi,38,106,0,0,116
+Tuesday,Cloudy,Maggi,45,116,0,0,115
+Saturday,Cloudy,Poha,31,78,0,1,141
+Tuesday,Cloudy,Maggi,51,115,0,0,132
+Sunday,Sunny,Dosa,42,88,0,1,121
+Saturday,Rainy,Sandwich,44,112,1,1,102
+Friday,Sunny,Dosa,46,121,0,0,109
+Sunday,Sunny,Vada Pav,21,150,0,1,164
+Monday,Cloudy,Vada Pav,28,164,0,0,138
+Sunday,Cloudy,Sandwich,60,102,0,1,110
+Saturday,Sunny,Vada Pav,31,138,0,1,161
+Friday,Cloudy,Dosa,55,109,1,0,84
+Friday,Cloudy,Biryani,75,93,0,0,93
+Saturday,Rainy,Poha,34,141,0,1,141
+Thursday,Sunny,Dosa,58,84,0,0,87
+Sunday,Sunny,Vada Pav,26,161,0,1,187
+Saturday,Cloudy,Samosa,25,149,0,1,150
+Thursday,Sunny,Dosa,59,87,0,0,97
+Tuesday,Cloudy,Pav Bhaji,70,127,0,0,108
+Thursday,Cloudy,Biryani,84,93,0,0,75
+Tuesday,Cloudy,Pav Bhaji,66,108,1,0,93
+Thursday,Rainy,Poha,25,141,1,0,102
+Saturday,Cloudy,Pav Bhaji,59,93,0,1,124
+Thursday,Sunny,Biryani,78,75,0,0,98
+Sunday,Cloudy,Pav Bhaji,70,124,0,1,146
+Tuesday,Sunny,Vada Pav,21,187,1,0,150
+Thursday,Rainy,Biryani,91,98,0,0,64
+Saturday,Sunny,Maggi,44,132,0,1,147
+Thursday,Cloudy,Sandwich,63,110,0,0,95
+Friday,Rainy,Vada Pav,30,150,0,0,121
+Saturday,Rainy,Maggi,46,147,1,1,133
+Wednesday,Sunny,Dosa,49,97,0,0,119
+Thursday,Sunny,Pav Bhaji,67,146,0,0,112
+Saturday,Cloudy,Poha,32,102,0,1,124
+Tuesday,Rainy,Pav Bhaji,63,112,0,0,91
+Wednesday,Cloudy,Pav Bhaji,64,91,0,0,90
+Thursday,Sunny,Poha,40,124,0,0,130
+Friday,Sunny,Sandwich,56,95,0,0,113
+Thursday,Sunny,Dosa,44,119,0,0,98
+Wednesday,Cloudy,Maggi,39,133,0,0,142
+Sunday,Rainy,Dosa,42,98,0,1,121
+Wednesday,Rainy,Dosa,50,121,0,0,79
+Monday,Cloudy,Pav Bhaji,56,90,0,0,96
+Friday,Sunny,Maggi,37,142,0,0,142
+Friday,Cloudy,Sandwich,52,113,0,0,111
+Thursday,Cloudy,Samosa,15,150,1,0,134
+Tuesday,Rainy,Biryani,100,64,0,0,76
+Wednesday,Rainy,Vada Pav,20,121,0,0,123
+Saturday,Rainy,Vada Pav,27,123,0,1,134
+Wednesday,Sunny,Poha,37,130,1,0,103
+Friday,Cloudy,Dosa,42,79,0,0,86
+Wednesday,Cloudy,Maggi,51,142,1,0,112
+Friday,Cloudy,Sandwich,68,111,0,0,117
+Wednesday,Cloudy,Biryani,94,76,0,0,72
+Tuesday,Cloudy,Samosa,18,134,0,0,134
+Saturday,Sunny,Vada Pav,20,134,1,1,163
+Friday,Sunny,Poha,36,103,0,0,132
+Thursday,Rainy,Pav Bhaji,67,96,1,0,96
+Monday,Rainy,Samosa,25,134,0,0,108
+Saturday,Sunny,Samosa,16,108,0,1,152
+Thursday,Cloudy,Poha,33,132,0,0,129
+Saturday,Sunny,Vada Pav,20,163,0,1,188
+Thursday,Rainy,Poha,33,129,1,0,112
+Friday,Rainy,Dosa,53,86,0,0,81
+Friday,Rainy,Poha,34,112,0,0,95
+Sunday,Sunny,Maggi,41,112,1,1,146
+Tuesday,Cloudy,Vada Pav,31,188,0,0,163
+Wednesday,Sunny,Samosa,23,152,0,0,152
+Tuesday,Rainy,Maggi,45,146,0,0,117
+Monday,Sunny,Poha,28,95,1,0,123
+Saturday,Cloudy,Dosa,42,81,1,1,116
+Monday,Rainy,Poha,33,123,0,0,116
+Thursday,Cloudy,Pav Bhaji,64,96,0,0,103
+Monday,Sunny,Samosa,19,152,0,0,144
+Sunday,Rainy,Biryani,83,72,0,1,88
+Monday,Sunny,Samosa,17,144,0,0,157
+Wednesday,Cloudy,Maggi,54,117,0,0,107
+Saturday,Sunny,Biryani,96,88,0,1,113
+Tuesday,Sunny,Sandwich,52,117,0,0,114
+Wednesday,Cloudy,Maggi,48,107,0,0,116
+Monday,Sunny,Samosa,17,157,0,0,161
+Thursday,Rainy,Maggi,53,116,0,0,102
+Tuesday,Rainy,Sandwich,64,114,0,0,87
+Friday,Sunny,Dosa,55,116,0,0,93
+Monday,Cloudy,Maggi,36,102,0,0,127
+Wednesday,Rainy,Biryani,70,113,1,0,80
+Sunday,Rainy,Vada Pav,30,163,1,1,162
+Friday,Rainy,Poha,38,116,0,0,94
+Thursday,Cloudy,Sandwich,44,87,1,0,97
+Friday,Sunny,Samosa,25,161,0,0,148
+Friday,Cloudy,Maggi,40,127,0,0,140
+Sunday,Cloudy,Biryani,77,80,0,1,106
+Wednesday,Sunny,Vada Pav,32,162,0,0,157
+Sunday,Sunny,Poha,39,94,0,1,143
+Sunday,Rainy,Maggi,37,140,0,1,136
+Thursday,Cloudy,Poha,40,143,0,0,114
+Monday,Cloudy,Sandwich,41,97,1,0,101
+Friday,Sunny,Poha,34,114,1,0,125
+Friday,Sunny,Maggi,45,136,0,0,124
+Sunday,Sunny,Vada Pav,34,157,0,1,174
+Friday,Rainy,Maggi,46,124,0,0,98
+Monday,Sunny,Vada Pav,20,174,0,0,175
+Wednesday,Rainy,Pav Bhaji,67,103,1,0,57
+Wednesday,Rainy,Poha,26,125,0,0,100
+Thursday,Sunny,Sandwich,43,101,0,0,123
+Friday,Sunny,Vada Pav,23,175,0,0,178
+Tuesday,Cloudy,Vada Pav,30,178,0,0,149
+Sunday,Cloudy,Samosa,25,148,1,1,136
+Monday,Cloudy,Maggi,53,98,1,0,119
+Tuesday,Cloudy,Samosa,23,136,0,0,116
+Friday,Cloudy,Maggi,51,119,0,0,95
+Saturday,Rainy,Dosa,44,93,0,1,106
+Thursday,Rainy,Biryani,86,106,0,0,68
+Thursday,Rainy,Vada Pav,28,149,0,0,118
+Wednesday,Cloudy,Maggi,39,95,0,0,124
+Thursday,Rainy,Pav Bhaji,67,57,0,0,73
+Saturday,Rainy,Vada Pav,26,118,0,1,136
+Friday,Rainy,Pav Bhaji,61,73,0,0,65
+Saturday,Rainy,Dosa,56,106,1,1,97
+Saturday,Rainy,Biryani,92,68,0,1,88
+Sunday,Cloudy,Maggi,53,124,1,1,126
+Saturday,Rainy,Sandwich,61,123,1,1,119
+Wednesday,Cloudy,Samosa,23,116,0,0,114
+Monday,Cloudy,Dosa,41,97,0,0,83
+Tuesday,Cloudy,Dosa,49,83,0,0,84
+Tuesday,Sunny,Pav Bhaji,56,65,1,0,93
+Monday,Cloudy,Maggi,38,126,1,0,117
+Sunday,Rainy,Vada Pav,32,136,0,1,141
+Friday,Rainy,Pav Bhaji,51,93,0,0,91
+Thursday,Cloudy,Biryani,100,88,1,0,54
+Monday,Sunny,Pav Bhaji,56,91,1,0,114
+Sunday,Cloudy,Vada Pav,31,141,1,1,149
+Friday,Rainy,Vada Pav,26,149,0,0,140
+Thursday,Sunny,Poha,30,100,0,0,126
+Saturday,Rainy,Poha,37,126,0,1,125
+Thursday,Cloudy,Pav Bhaji,54,114,0,0,112
+Friday,Cloudy,Samosa,20,114,0,0,130
+Saturday,Sunny,Samosa,17,130,0,1,168
+Friday,Sunny,Pav Bhaji,65,112,1,0,114
+Friday,Cloudy,Poha,35,125,1,0,108
+Tuesday,Sunny,Poha,30,108,0,0,132
+Friday,Rainy,Sandwich,42,119,0,0,98
+Tuesday,Sunny,Biryani,80,54,0,0,103
+Wednesday,Sunny,Maggi,52,117,0,0,119
+Monday,Rainy,Biryani,84,103,0,0,92
+Saturday,Rainy,Vada Pav,21,140,0,1,149
+Thursday,Sunny,Sandwich,48,98,1,0,91
+Saturday,Cloudy,Samosa,23,168,0,1,159
+Friday,Rainy,Maggi,50,119,0,0,95
+Wednesday,Rainy,Vada Pav,30,149,1,0,126
+Monday,Sunny,Dosa,57,84,1,0,81
+Monday,Rainy,Poha,31,132,0,0,101
+Sunday,Rainy,Sandwich,66,91,0,1,81
+Tuesday,Rainy,Sandwich,60,81,0,0,76
+Saturday,Rainy,Dosa,40,81,0,1,76
+Saturday,Cloudy,Samosa,16,159,0,1,143
+Monday,Sunny,Pav Bhaji,67,114,0,0,118
+Friday,Sunny,Pav Bhaji,63,118,0,0,121
+Thursday,Rainy,Sandwich,53,76,0,0,87
+Monday,Cloudy,Poha,25,101,1,0,96
+Monday,Rainy,Samosa,16,143,0,0,120
+Friday,Sunny,Pav Bhaji,59,121,1,0,106
+Monday,Cloudy,Maggi,47,95,0,0,101
+Sunday,Rainy,Samosa,22,120,0,1,147
+Friday,Sunny,Dosa,52,76,1,0,97
+Wednesday,Rainy,Dosa,49,97,0,0,78
+Monday,Rainy,Dosa,43,78,0,0,78
+Monday,Rainy,Sandwich,57,87,1,0,75
+Monday,Cloudy,Vada Pav,31,126,0,0,116
+Thursday,Rainy,Dosa,45,78,0,0,75
+Tuesday,Rainy,Pav Bhaji,56,106,0,0,82
+Tuesday,Rainy,Samosa,23,147,0,0,108
+Saturday,Rainy,Poha,34,96,0,1,112
+Wednesday,Sunny,Vada Pav,35,116,0,0,159
+Wednesday,Sunny,Vada Pav,23,159,0,0,165
+Friday,Sunny,Vada Pav,30,165,0,0,151
+Thursday,Cloudy,Pav Bhaji,68,82,0,0,97
